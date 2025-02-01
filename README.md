@@ -7,7 +7,7 @@
 
 ## AWS Certification
 
-<img src="https://aws-badge-maker.vercel.app/api/aws?certs=AIF,DEA,MLS" width="800" height="250" alt="AWS Certifications">
+<img src="https://badge-studio.vercel.app/api/aws?certs=AIF,DEA,MLS" width="800" height="250" alt="AWS Certifications">
 
 ## Activities
 <div align="left"> 
