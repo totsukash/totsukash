@@ -5,6 +5,10 @@
 - 📫 How to reach me: [X - @totsumaru_dot](https://x.com/totsumaru_dot)
 <br>
 
+## AWS Certification
+
+<img src="https://aws-badge-maker.vercel.app/api/aws?certs=AIF,DEA,MLS" width="800" height="250" alt="AWS Certifications">
+
 ## Activities
 <div align="left"> 
   <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=totsukash&theme=vue-dark&layout=compact" />
