@@ -16,7 +16,7 @@
 
 ## AWS Certification
 
-<img src="https://badge-studio.vercel.app/api/aws?certs=AIF,DEA,MLS" width="800" height="250" alt="AWS Certifications">
+<img src="https://badge-studio.vercel.app/api/aws?certs=AIF,DEA,MLS,MLA,CLF" width="800" height="250" alt="AWS Certifications">
 
 ## Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=go,python,vim,js,ts,react,next,docker,aws,gcp,discord,docker,supabase" />
