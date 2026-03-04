@@ -5,9 +5,6 @@
 - 📫 How to reach me: [X - @totsumaru_dot](https://x.com/totsumaru_dot)
 <br>
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## AWS Certification
 
 <img src="https://badge-studio.vercel.app/api/aws?certs=AIF,DEA,MLS,MLA,CLF" width="800" height="250" alt="AWS Certifications">
